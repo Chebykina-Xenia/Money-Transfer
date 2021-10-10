@@ -7,14 +7,13 @@
 На тестирование затрачено: 15 минут
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Chebykina-Xenia/Money-Transfer/issues/1#issue-1018174258
-
+* [При сложении current_balance и transfer_amount выводится неверный результат (account_balance)](https://github.com/Chebykina-Xenia/Money-Transfer/issues/1#issue-1018174258)
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* Домашнее задание 1 по ссылке https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md#задача-1---money-transfer
+* Домашнее задание 1 в [в домашнем задании](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
 
-В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md#задача-1---money-transfer:
+В качестве тестовых данных использовались данные [из задания 1](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
 * current_balance = 2_000_000_000;
 * transfer_amount = 500_000_000;
 
